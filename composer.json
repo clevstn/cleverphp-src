@@ -1,0 +1,20 @@
+{
+  "name": "cleverstone/cleverphp-src",
+  "description": "The CleverPHP Vendor Package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cleverstone",
+      "email": "yang_hui_lei@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "clever\\": "src"
+    },
+    "files": []
+  }
+}
