@@ -14,5 +14,5 @@ namespace clever;
 
 class App
 {
-    const FRAME
+    
 }
